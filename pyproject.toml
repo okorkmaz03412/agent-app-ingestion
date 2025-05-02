@@ -1,0 +1,5 @@
+[project]
+name = "agent-app-ingestion"
+version = "0.1.0"
+description = "Data ingestion service for the Agent Landing Zone. Processes PDFs, images, spreadsheets, transcripts and SharePoint content into grounding knowledge for agents, with smart chunking and multimodal embeddings."
+requires-python = ">=3.10"
